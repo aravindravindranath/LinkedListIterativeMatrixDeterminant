@@ -1,0 +1,45 @@
+Order of Matrix: 1
+5 
+Determinant of the above Matrix is 5
+
+Order of Matrix: 2
+2 3 
+5 9 
+Determinant of the above Matrix is 3
+
+Order of Matrix: 3
+3 -2 4 
+-1 5 2 
+-3 6 4 
+Determinant of the above Matrix is 64
+
+Order of Matrix: 4
+2 4 5 6 
+0 3 6 9 
+0 0 9 8 
+0 0 0 5 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2 4 5 6 
+0 0 0 0 
+0 0 9 8 
+0 0 0 5 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 4
+2 0 0 0 
+0 3 0 0 
+0 0 9 0 
+0 0 0 5 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2 4 0 6 
+1 3 0 0 
+4 0 0 8 
+2 5 0 5 
+Determinant of the above Matrix is 0
+
+Encountered a non Square matrix. Processing will stop
+Please enter only square matrices in the input file

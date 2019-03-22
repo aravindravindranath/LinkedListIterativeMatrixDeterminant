@@ -1,0 +1,20 @@
+Determinant calculated by recursive algorithm.
+----------------------------------------------
+
+Order of Matrix: 1
+5 
+Determinant of the above Matrix is 5
+
+Order of Matrix: 2
+2 3 
+5 9 
+Determinant of the above Matrix is 3
+
+Order of Matrix: 3
+3 -2 4 
+-1 5 2 
+-3 6 4 
+Determinant of the above Matrix is 64
+
+Encountered a non Integer. Processing will stop
+Please enter only integers in the input file

@@ -1,0 +1,81 @@
+Determinant calculated by recursive algorithm.
+----------------------------------------------
+
+Order of Matrix: 1
+5 
+Determinant of the above Matrix is 5
+
+Order of Matrix: 2
+2 3 
+5 9 
+Determinant of the above Matrix is 3
+
+Order of Matrix: 3
+3 -2 4 
+-1 5 2 
+-3 6 4 
+Determinant of the above Matrix is 64
+
+Order of Matrix: 4
+2 4 5 6 
+0 3 6 9 
+0 0 9 8 
+0 0 0 5 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2 4 5 6 
+0 0 0 0 
+0 0 9 8 
+0 0 0 5 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 4
+2 0 0 0 
+0 3 0 0 
+0 0 9 0 
+0 0 0 5 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2 4 0 6 
+1 3 0 0 
+4 0 0 8 
+2 5 0 5 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 5
+3 4 5 6 -7 
+11 12 4 5 6 
+2 -6 8 9 0 
+13 4 8 2 1 
+23 34 1 1 4 
+Determinant of the above Matrix is -17126
+
+Order of Matrix: 5
+-3 -4 -5 -6 7 
+11 12 4 -5 6 
+2 -6 8 7 8 
+13 -4 8 2 1 
+23 34 1 3 4 
+Determinant of the above Matrix is 381322
+
+Order of Matrix: 6
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 7
+4 4 5 6 2 3 -5 
+0 6 8 9 11 23 14 
+3 -2 -4 -6 9 10 13 
+21 0 5 0 6 8 -3 
+1 1 3 5 6 7 2 
+0 4 6 5 4 -12 -11 
+3 4 5 6 2 1 4 
+Determinant of the above Matrix is -2913890
+

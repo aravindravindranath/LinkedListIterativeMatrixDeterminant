@@ -1,0 +1,81 @@
+Determinant calculated by iterative algorithm using Gauss-Jordan Elimination.
+--------------------------------------------------------------------------
+
+Order of Matrix: 1
+5.0 
+Determinant of the above Matrix is 5
+
+Order of Matrix: 2
+2.0 3.0 
+5.0 9.0 
+Determinant of the above Matrix is 3
+
+Order of Matrix: 3
+3.0 -2.0 4.0 
+-1.0 5.0 2.0 
+-3.0 6.0 4.0 
+Determinant of the above Matrix is 64
+
+Order of Matrix: 4
+2.0 4.0 5.0 6.0 
+0.0 3.0 6.0 9.0 
+0.0 0.0 9.0 8.0 
+0.0 0.0 0.0 5.0 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2.0 4.0 5.0 6.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 9.0 8.0 
+0.0 0.0 0.0 5.0 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 4
+2.0 0.0 0.0 0.0 
+0.0 3.0 0.0 0.0 
+0.0 0.0 9.0 0.0 
+0.0 0.0 0.0 5.0 
+Determinant of the above Matrix is 270
+
+Order of Matrix: 4
+2.0 4.0 0.0 6.0 
+1.0 3.0 0.0 0.0 
+4.0 0.0 0.0 8.0 
+2.0 5.0 0.0 5.0 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 5
+3.0 4.0 5.0 6.0 -7.0 
+11.0 12.0 4.0 5.0 6.0 
+2.0 -6.0 8.0 9.0 0.0 
+13.0 4.0 8.0 2.0 1.0 
+23.0 34.0 1.0 1.0 4.0 
+Determinant of the above Matrix is -17126
+
+Order of Matrix: 5
+-3.0 -4.0 -5.0 -6.0 7.0 
+11.0 12.0 4.0 -5.0 6.0 
+2.0 -6.0 8.0 7.0 8.0 
+13.0 -4.0 8.0 2.0 1.0 
+23.0 34.0 1.0 3.0 4.0 
+Determinant of the above Matrix is 381322
+
+Order of Matrix: 6
+6.0 4.0 6.0 4.0 6.0 4.0 
+1.0 2.0 3.0 4.0 5.0 6.0 
+6.0 5.0 4.0 3.0 2.0 1.0 
+3.0 2.0 3.0 2.0 3.0 2.0 
+4.0 6.0 4.0 6.0 4.0 6.0 
+1.0 1.0 1.0 1.0 1.0 1.0 
+Determinant of the above Matrix is 0
+
+Order of Matrix: 7
+4.0 4.0 5.0 6.0 2.0 3.0 -5.0 
+0.0 6.0 8.0 9.0 11.0 23.0 14.0 
+3.0 -2.0 -4.0 -6.0 9.0 10.0 13.0 
+21.0 0.0 5.0 0.0 6.0 8.0 -3.0 
+1.0 1.0 3.0 5.0 6.0 7.0 2.0 
+0.0 4.0 6.0 5.0 4.0 -12.0 -11.0 
+3.0 4.0 5.0 6.0 2.0 1.0 4.0 
+Determinant of the above Matrix is -2913890
+
